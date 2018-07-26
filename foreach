@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: foreach
+# name: @foreach
 # key: foreach
 # --
 @foreach (${1:condition})
